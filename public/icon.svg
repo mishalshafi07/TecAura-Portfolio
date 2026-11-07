@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100" height="100" rx="20" fill="#101018"/>
+  <rect x="3" y="3" width="94" height="94" rx="17" stroke="#30303B" stroke-width="2"/>
+  <!-- Top Left Dark/Deep Ribbon of the A -->
+  <polygon points="42,16 50,48 31,48" fill="#7657FF"/>
+  <!-- Top Right Folded Ribbon of the A -->
+  <polygon points="42,16 58,16 69,48 50,48" fill="#F5F5FA"/>
+  <!-- Center TecAura Text Band Indicator -->
+  <rect x="20" y="51" width="60" height="10" rx="2" fill="#171721"/>
+  <text x="50" y="58.5" text-anchor="middle" fill="#F5F5FA" font-family="sans-serif" font-weight="600" font-size="11" letter-spacing="1.2">TecAura</text>
+  <!-- Bottom Left Foot of the A -->
+  <polygon points="28,64 46,64 41,82 22,82" fill="#7657FF"/>
+  <!-- Bottom Right Foot of the A -->
+  <polygon points="54,64 72,64 78,82 60,82" fill="#21B8E8"/>
+</svg>
